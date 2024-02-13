@@ -20,6 +20,6 @@ image:anaconda.png[]
 image:launcher.png[]
 
 
-    * Check out this repo for more help:
-     https://github.com/Systems-Modeling/SysML-v2-Release/blob/2023-02/install/jupyter/
+Check out this repo for more help:
+https://github.com/Systems-Modeling/SysML-v2-Release/blob/2023-02/install/jupyter/
     
