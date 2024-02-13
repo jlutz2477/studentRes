@@ -17,7 +17,7 @@ image:anaconda.png[]
     * Run `jupyter lab`.
     * JupyterLab will start in a browser window.
 +
-image:launcher.png
+image:launcher.png[]
 
 
     * Check out this repo for more help:
