@@ -8,7 +8,7 @@ image:anaconda.png[]
         
     * You can check the Conda version you have installed by running `conda --version` in Terminal (Linux / macOS) or Command Prompt (Windows). See https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-conda[Managing conda].
 
-2. Run the included `install.bat` script or install.sh
+2. Run the included `install.bat` script or `install.sh`
     * Double click `install.bat` from File Explorer. See https://www.windowscentral.com/how-create-and-run-batch-file-windows-10#run_batch_file_windows10[How to run a batch file on Windows 10].
     * Alternatively use Run or Command Prompt. See https://www.wikihow.com/Run-a-Batch-File-from-the-Command-Line-on-Windows[How to Run a Batch File from the Command Line on Windows].
 3. Start JupyterLab
