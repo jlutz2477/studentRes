@@ -20,7 +20,9 @@ image:anaconda.png[]
 image:launcher.png[]
 
 
-Check out these repos for more help:
+Check out these repos for more help and examples:
+
+https://github.com/mfshi03/SysML-workspace 
 
 https://github.com/Systems-Modeling/SysML-v2-Release/blob/2023-02/install/jupyter/
 
@@ -29,3 +31,5 @@ https://github.com/Open-MBEE/SysML-v2-Applications-and-Examples/blob/main/
 https://github.com/Systems-Modeling/SysML-v2-Release/blob/master/sysml/src/training/
 
 https://github.com/Systems-Modeling/SysML-v2-Release/tree/master/sysml/src/examples
+
+https://github.com/Systems-Modeling/SysML-v2-Release/blob/master/doc/

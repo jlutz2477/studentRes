@@ -1,0 +1,5 @@
+Logical misunderstandings: 
+
+Syntax errors:
+
+Mistaken prompt words for SysMLv2 terms:
