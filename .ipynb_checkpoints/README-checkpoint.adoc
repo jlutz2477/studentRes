@@ -21,11 +21,6 @@ image:launcher.png[]
 
 
 Check out these repos for more help:
-
 https://github.com/Systems-Modeling/SysML-v2-Release/blob/2023-02/install/jupyter/
-
 https://github.com/Open-MBEE/SysML-v2-Applications-and-Examples/blob/main/
-
 https://github.com/Systems-Modeling/SysML-v2-Release/blob/master/sysml/src/training/
-
-https://github.com/Systems-Modeling/SysML-v2-Release/tree/master/sysml/src/examples
