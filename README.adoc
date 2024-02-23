@@ -33,3 +33,8 @@ https://github.com/Systems-Modeling/SysML-v2-Release/blob/master/sysml/src/train
 https://github.com/Systems-Modeling/SysML-v2-Release/tree/master/sysml/src/examples
 
 https://github.com/Systems-Modeling/SysML-v2-Release/blob/master/doc/
+
+
+Symlv2 Generator by Shi:
+
+https://chat.openai.com/g/g-JscUy4mkm-sysmlv2-generator
