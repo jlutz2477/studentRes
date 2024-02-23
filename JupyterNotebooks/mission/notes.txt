@@ -1,0 +1,8 @@
+
+
+For next week:
+
+    - Be more specific in rubric
+    - Go case for case in entries in the rubric
+    - Give it an example of a poor sysml v2 system and see how chatgpt grades it
+    - Give ChatGPT a great example of a sysml v2 system and see how chatgpt grades it
