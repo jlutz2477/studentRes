@@ -11,7 +11,7 @@ Syntax errors: Incorrect usage of brackets/parentheses or structural mistakes in
     2 points <.25 (errors/line) unique errors     
     3 points <.05 unique errors
 		
-Mistaken prompt words for SysMLv2 terms, 
+Mistaken prompt words for SysMLv2 terms: 
     0 points - Used a lot of language from the prompt (that is not SysMLv2 code) as keywords for sysmlv2,  >.10 (errors/lines) words from the prompt mistaken as sysmlv2	
     1 point - Used some language from the prompt as sysmlv2 keywords, (<.10 ratio)
     2 points - Used minimal language from the prompt as sysmlv2 keywords (<.05 ratio)
