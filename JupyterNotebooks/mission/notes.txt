@@ -6,3 +6,4 @@ For next week:
     - Go case for case in entries in the rubric
     - Give it an example of a poor sysml v2 system and see how chatgpt grades it
     - Give ChatGPT a great example of a sysml v2 system and see how chatgpt grades it
+    - Focus on 4 wheeled vehicle
