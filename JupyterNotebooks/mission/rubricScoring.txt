@@ -21,6 +21,7 @@ Part A:
 
     Overall, the score for the provided code would be 1 point. It attempted to structure the code but contains numerous syntax errors and lacks some necessary definitions for attributes and operations.
 
+
 Part B:
 
     Let's evaluate this code according to the provided rubric:
@@ -63,6 +64,7 @@ Part C:
 
     Overall, the score for this code is 1 point. It attempts to structure the code according to the prompt but suffers from significant syntax errors and lacks necessary definitions for attributes and operations.
 
+
 Part D:
 
     Let's evaluate this code based on the provided rubric:
@@ -84,3 +86,19 @@ Part D:
     - Score: 2 points
 
     Overall, the score for this code is 1 point. It attempts to structure the code according to the prompt but contains significant syntax errors, especially in extending parts and defining parts, and lacks necessary definitions for some actions.
+
+
+Good Example: 
+
+    Let's grade the provided SysML v2 code based on the provided rubric:
+
+    1. **Logical misunderstandings**: 3 points
+    - The code demonstrates a complete understanding of the prompt, effectively modeling the system as intended. It correctly defines parts, actions, interfaces, and states to represent the ground station, spacecraft vehicle, and communication links. The transitions between states and actions reflect the expected behavior described in the prompt.
+
+    2. **Syntax errors**: 3 points
+    - There are no syntax errors present in the code. The code is well-structured with proper usage of brackets, parentheses, and other structural elements.
+
+    3. **Mistaken prompt words for SysMLv2 terms**: 3 points
+    - The code exclusively uses SysMLv2 keywords and does not invent any code syntax. It effectively translates the prompt requirements into SysMLv2 terms, maintaining clarity and consistency throughout the code.
+
+    Overall, the provided code demonstrates a strong understanding of SysMLv2 concepts and effectively models the system described in the prompt without any syntax errors. Therefore, it receives a score of 3 points in each category, resulting in a total score of 9 out of 9 points.
