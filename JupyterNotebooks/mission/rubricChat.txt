@@ -1,0 +1,33 @@
+Sure, here's a rubric for evaluating the overall effectiveness of CHATGPT's creation of SysML v2 code:
+
+Correctness (40 points):
+
+    Syntax Accuracy (10 points): Evaluate if the code follows the correct SysML v2 syntax without any syntax errors.
+    Semantic Accuracy (15 points): Assess if the code accurately represents the intended system, considering the relationships between blocks, parts, ports, actions, and flows.
+    Consistency (15 points): Check for consistency in naming conventions, property definitions, and usage of language features across the code.
+
+Completeness (30 points):
+
+    Coverage (15 points): Evaluate if the code adequately covers all aspects of the specified system, including necessary blocks, parts, actions, flows, and interfaces.
+    Detail (15 points): Assess whether the code provides sufficient detail to understand the system architecture, including properties, ports, and their connections.
+
+Clarity (20 points):
+
+    Readability (10 points): Evaluate the readability of the code, considering factors such as formatting, indentation, and comments.
+    Conciseness (5 points): Assess if the code is concise and avoids unnecessary redundancy or verbosity.
+    Documentation (5 points): Check if the code includes adequate documentation or comments to explain complex relationships or design decisions.
+
+Innovation (10 points):
+
+    Creativity (5 points): Evaluate if the code demonstrates creative or innovative solutions to represent the system architecture effectively.
+    Efficiency (5 points): Assess whether the code optimizes the use of SysML v2 features to achieve the desired representation with minimal complexity.
+
+Adherence to Best Practices (10 points):
+
+    Modularity (5 points): Evaluate if the code demonstrates modularity by appropriately organizing blocks, parts, and interfaces.
+    Reusability (5 points): Assess whether the code promotes reusability by defining generic blocks, interfaces, or patterns that could be applied to similar systems.
+
+
+Total Score: 100 points
+
+This rubric aims to assess CHATGPT's effectiveness in generating SysML v2 code based on various criteria, including correctness, completeness, clarity, innovation, and adherence to best practices.
