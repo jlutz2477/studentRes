@@ -1,10 +1,10 @@
 Sure, here's a rubric for evaluating the overall effectiveness of CHATGPT's creation of SysML v2 code:
 
-Correctness (40 points):
+Correctness (30 points):
 
     Syntax Accuracy (10 points): Evaluate if the code follows the correct SysML v2 syntax without any syntax errors.
-    Semantic Accuracy (15 points): Assess if the code accurately represents the intended system, considering the relationships between blocks, parts, ports, actions, and flows.
-    Consistency (15 points): Check for consistency in naming conventions, property definitions, and usage of language features across the code.
+    Semantic Accuracy (10 points): Assess if the code accurately represents the intended system, considering the relationships between blocks, parts, ports, actions, and flows.
+    Consistency (10 points): Check for consistency in naming conventions, property definitions, and usage of language features across the code.
 
 Completeness (30 points):
 
