@@ -1,0 +1,51 @@
+Prompts:
+
+
+Four:
+Using SysMLv2, write the code to depict a search and rescue operation using a transport helicopter and a patrol boat to rescue a person in the water.
+
+Using SysMLv2, write the code to create a package of a search and rescue operation using two parts, a transport helicopter and a patrol boat to rescue a person in the water. These parts are connected by a communication port, and each have fuel and location attributes.
+Keywords: 4
+
+ 
+Five:
+Using SysMLv2, write the code for an air refueling operation using an MC-130 aircraft to refuel an F-35 fighter.
+
+Using SysMLv2, write the code for a package displaying an air refueling action using two parts, MC-130 aircraft, and an F-35 fighter, these aircraft have fuel and speed attributes, and are connected by a communication port.
+Keywords: 5
+
+
+Six:
+Using SysMLv2, write the code to display an armored assault operation in which 10 main battle tanks are sent into a city to eliminate hostile troop encampments.
+
+Using SysMLv2, write the code for a package conducting an assault action, in which a tank interface is defined to contain 10 main battle tank parts that are being sent into a city to eliminate hostile troop encampments with 2 states, eliminated or active, and that have attributes defining the number of enemy soldiers, and enemy anti-tank weaponry.
+Keywords: 6
+
+
+(More intuitive tests)
+Seven:
+Using SysMLv2, write the code to outline changing a lightbulb.
+
+Using SysMLv2, write the code to create a package about completing the action of changing a lightbulb.
+Keywords: 2
+
+
+Eight:
+Using SysMLv2, write the code to outline taking out the trash.
+
+Using SysMLv2, write the code to create a package with several parts and attributes, about completing the action of taking the trash out.
+Keywords: 4
+
+ 
+Nine:
+Using SysMLv2, write the code to describe washing a certain amount of dishes.
+
+Using SysMLv2, write code creating a package that describes the action of washing dishes, with several dish parts and cleaning supplies.
+Keywords: 3
+
+ 
+Ten:
+Using SysMLv2, write code that describes a procedure to build a lego set.
+
+Using SysMLv2, write code that describes an action to build a lego set with a couple of part definitions.
+Keywords: 2

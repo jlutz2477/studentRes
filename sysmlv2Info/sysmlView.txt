@@ -1,0 +1,12 @@
+Different ways to visualize sysmlv2 code blocks:
+
+    %viz --view=Tree package
+
+    %viz --view=tree {name of sysml file}
+
+    %show {sysml package name} Displays the logical architecture
+    
+    --view {args}
+    Default Tree State Interconnection Action Sequence Case MIXED
+
+
